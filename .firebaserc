@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "firebase deploy --only firestore:rules,firestore:indexes,storage": "kutirakushala-86975"
+  },
+  "targets": {},
+  "etags": {}
+}
