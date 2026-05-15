@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324048706702",
+    "project_id": "kutirakushala-86975",
+    "storage_bucket": "kutirakushala-86975.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324048706702:android:a462a2d0da223f66dd3ddf",
+        "android_client_info": {
+          "package_name": "com.example.kutira_kushala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324048706702-ma6vantplfie966ebff0dpu336cddpbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kutira_kushala",
+            "certificate_hash": "f2c1e051b20646578c14714863deb94ba0022bd1"
+          }
+        },
+        {
+          "client_id": "324048706702-024nkaaj3a6hdifomlp6t0q0ggb47esb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4yH8Htrk09-fEpA3VIZdWiDlXcPdM_NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324048706702-024nkaaj3a6hdifomlp6t0q0ggb47esb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
