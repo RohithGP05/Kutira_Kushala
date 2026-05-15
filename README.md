@@ -1,4 +1,4 @@
-# Kutira Kushala (कुटीर कुशल)
+# Kutira Kushala (ಕುಟೀರ ಕುಶಲ)
 
 **Kutira Kushala** is a professional-grade Android application designed to bridge the gap between local cottage industries (micro-factories) and wholesale buyers. Built with a modern tech stack, it empowers rural and semi-urban producers by providing them with a digital storefront to showcase their craftsmanship and production capacity.
 
@@ -116,11 +116,11 @@ com.example.kutira_kushala/
 
 | Login | Producer Home | Buyer Directory |
 |-------|---------------|-----------------|
-| ![Login](screenshots/login.png) | ![Producer](screenshots/producer_home.png) | ![Buyer](screenshots/buyer_dir.png) |
+| ![Login](screenshots/login.png) | ![Producer](screenshots/producer_home.jpeg) | ![Buyer](screenshots/buyer_dir.jpeg) |
 
 | Product Edit | Business Detail | Profile Edit |
 |--------------|-----------------|--------------|
-| ![Edit](screenshots/product_edit.png) | ![Detail](screenshots/detail.png) | ![Profile](screenshots/profile_edit.png) |
+| ![Edit](screenshots/product_edit.png) | ![Detail](screenshots/detail.jpeg) | ![Profile](screenshots/profile_edit.jpeg) |
 
 ---
 
