@@ -124,11 +124,6 @@ com.example.kutira_kushala/
 
 ---
 
-## 🎥 Demo Video
-[Link to Demo Video (YouTube/Drive)]
-
----
-
 ## 🔮 Future Improvements
 - **In-App Messaging:** Secure chat between buyers and sellers.
 - **Payment Integration:** Secure escrow or direct payment gateway.
@@ -139,4 +134,3 @@ com.example.kutira_kushala/
 
 ## 👥 Contributors
 - **Rohith G P** - Lead Developer & Maintainer
-- [Add other contributors here]
