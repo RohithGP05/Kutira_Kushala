@@ -1,0 +1,22 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Kotlin
+.kotlin/
+kotlin-js-store/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS X
+.DS_Store
+
+# Misc
+*.log
